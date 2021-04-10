@@ -1,4 +1,4 @@
-# flutter_app_mock
+# flutter_food_list
 
 A new Flutter application.
 
