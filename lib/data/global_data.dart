@@ -1,0 +1,1 @@
+import 'food_model.dart';class GlobalData {  static ApprovedFoodModel approvedFoodModel;}
